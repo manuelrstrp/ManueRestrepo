@@ -1,2 +1,2 @@
-# ManueRestrepo
+# ManuelRestrepo
 Prueba de Github Pages
